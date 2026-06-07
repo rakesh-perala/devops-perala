@@ -1,29 +1,142 @@
-##  WELCOME TO DEVOPS FACTORY LETS LEARN TOGETHER ##
+# 👋 Hi, I'm Rakesh Perala
 
-DevOps | AWS | Azure | Cloud & CI/CD Practice Repository
-Welcome to the DevOps Cloud Practice repository – your all-in-one hub for practicing and mastering essential DevOps tools and cloud platforms, including AWS, Azure, and various related technologies.
+## AWS DevOps Engineer | Kubernetes | Terraform | Docker | Jenkins | CI/CD
 
-This repository is structured for hands-on learning, covering real-world DevOps scenarios such as:
+Welcome to my GitHub profile!
 
-🛠️ (IaC) using Terraform and ARM templates
+I am an AWS DevOps Engineer with 4+ years of experience in designing, automating, and managing cloud infrastructure and CI/CD pipelines. I am passionate about Cloud Computing, DevOps Automation, Infrastructure as Code (IaC), Kubernetes, and helping students learn real-world DevOps practices.
 
-🐳 Containerization & Orchestration with Docker & Kubernetes
+---
 
-🚀 CI/CD Pipelines using Jenkins, GitHub Actions, Azure Pipelines,ArgoCD and AWS CodePipeline
+## 🚀 Technical Skills
 
-📦 Configuration Management with Ansible
+### ☁️ Cloud Platforms
 
-📈 Monitoring & Logging with Prometheus, Grafana, CloudWatch, and Azure Monitor
+* AWS
+* Azure
 
-🔐 Security & Identity Management including IAM, Azure RBAC, and Secrets Management
+### 🏗 Infrastructure as Code
 
-🧪 Automation Scripts and deployment strategies for both AWS and Azure
+* Terraform
+* CloudFormation
 
-☁️ Hybrid and Multi-cloud examples to show interoperability and comparing
+### 🐳 Containerization & Orchestration
 
-🔐 Security: HashiCorp Vault, AWS IAM, Azure Active Directory
+* Docker
+* Kubernetes (EKS)
 
-📜 Scripting: Bash, PowerShell, Python
+### 🔄 CI/CD Tools
+
+* Jenkins
+* GitHub Actions
+* ArgoCD
+* AWS CodePipeline
+
+### ⚙️ Configuration Management
+
+* Ansible
+
+### 📊 Monitoring & Logging
+
+* Prometheus
+* Grafana
+* CloudWatch
+
+### 🔐 Security
+
+* AWS IAM
+* Secrets Management
+* HashiCorp Vault
+
+### 💻 Operating Systems & Scripting
+
+* Linux
+* Bash
+* Shell Scripting
+* PowerShell
+* Python
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 EKS Java Application Deployment
+
+End-to-end deployment of a Java application on Amazon EKS using:
+
+* Terraform
+* Jenkins
+* Docker
+* Amazon ECR
+* Kubernetes
+
+### 🚀 EKS Node.js Application Deployment
+
+Production-style deployment of a Node.js application using:
+
+* Terraform
+* Docker
+* Jenkins/GitHub Actions
+* Amazon EKS
+
+### 🚀 AWS DevOps CI/CD Project
+
+Complete DevOps pipeline:
+
+GitHub → Jenkins → SonarQube → Docker → Amazon ECR → Amazon EKS
+
+### 🚀 Terraform AWS Infrastructure
+
+Infrastructure provisioning using:
+
+* VPC
+* EC2
+* S3
+* IAM
+* Security Groups
+* Load Balancers
+
+---
+
+## 📚 What You'll Find Here
+
+* AWS Projects
+* Terraform Modules
+* Docker Examples
+* Kubernetes Manifests
+* Jenkins Pipelines
+* CI/CD Projects
+* DevOps Practice Labs
+* Real-Time Production Scenarios
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Kubernetes
+* GitOps with ArgoCD
+* Platform Engineering
+* AWS Advanced Services
+* Production-Grade DevOps Architectures
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/devops-perala
+* LinkedIn: https://www.linkedin.com/in/rakesh-perala-95a643321
+* Email: [rakesh@devopsfactory.in](mailto:rakesh@devopsfactory.in)
+
+---
+
+## ⭐ DevOps Factory
+
+"Learning by Doing"
+
+Sharing DevOps knowledge, real-world projects, cloud automation techniques, and hands-on practice for aspiring DevOps Engineers.
+
+Thank you for visiting my profile! 🚀
+
 
 
 
